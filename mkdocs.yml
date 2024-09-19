@@ -1,0 +1,7 @@
+site_name: Discriminatieprotocol
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+
+markdown_extensions:
+  - footnotes
