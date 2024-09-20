@@ -1,6 +1,13 @@
 Het discriminatieprotocol bij AI/algoritmes 
+
+Onderstaand protocol is een opzet op hoofdlijnen. Graag ontvangen we van u feedback:
+- missen er cruciale stappen/onderdelen?
+- hoe bedoordeelt u de scope/reikwijdte van het protocol?
+- heeft u suggesties hoe afzonderlijke stappen verder uitegwerkt kunnen worden?
+
 # Aanleiding
-Naar aanleiding van de misstanden rond de Kinderopvangtoeslag heeft de Tweede Kamer een motie aangenomen van het lid Van Baarle (DENK) die de regering verzoekt om een discriminatieprotocol op te stellen “waarin wordt vastgesteld hoe er gehandeld wordt bij geconstateerde bevooroordeeldheid of discriminatie in overheidshandelen, waaronder het informeren van betrokkenen of gedupeerden, het extern onderzoeken van de gevolgen, mogelijke sanctionering van verantwoordelijken en waarborgen voor de toekomst”.[^1 Kamerstukken 2022-23, II, 29279, nr. 759]    
+Naar aanleiding van de misstanden rond de Kinderopvangtoeslag heeft de Tweede Kamer een motie aangenomen van het lid Van Baarle (DENK) die de regering verzoekt om een discriminatieprotocol op te stellen “waarin wordt vastgesteld hoe er gehandeld wordt bij geconstateerde bevooroordeeldheid of discriminatie in overheidshandelen, waaronder het informeren van betrokkenen of gedupeerden, het extern onderzoeken van de gevolgen, mogelijke sanctionering van verantwoordelijken en waarborgen voor de toekomst”.
+
 Dit document beschrijft de opzet van dit protocol en gaat in op het doel, de reikwijdte en de stappen die genomen dienen te worden. In deze versie beschrijft het protocol de stappen op hoofdlijnen. In 2025 zullen deze stappen verder uitgekristalliseerd worden, mede op basis van opgedane ervaringen bij en in overleg met overheden en ontwikkelingen die bijvoorbeeld volgen uit de implementatie van de AI-verordening.
 # Doel protocol
 De motie bevat geen directe verwijzing naar algoritmes, maar wel indirect door o.a. te verwijzen naar de kinderopvangtoeslag, de registratie van afkomst door de IND, het profileren van ouderen met een migratieachtergrond in de controle op de Basisregistratie Personen. 
