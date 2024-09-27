@@ -1,4 +1,4 @@
-# Het discriminatieprotocol bij AI/algoritmes 
+# Discriminatieprotocol bij AI/algoritmes 
 
 Deze repository wordt gebruikt voor het discriminatieprotocol voor AI en algoritmes.
 
