@@ -1,7 +1,13 @@
 site_name: Discriminatieprotocol
-site_url: https://mydomain.org/mysite
+site_url: https://minbzk.github.io/discriminatieprotocol
+edit_uri: edit/main/docs/
+repo_url: https://github.com/MinBZK/discriminatieprotocol
 theme:
   name: material
 
 markdown_extensions:
   - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
