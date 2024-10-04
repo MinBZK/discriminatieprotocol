@@ -3,8 +3,6 @@ hide: navigation
 ---
 # Discriminatieprotocol voor AI en algoritmes
 
-hier kan je typen hadhhba
-
 !!! note "Opmerking"
 
     Dit protocol is een opzet op hoofdlijnen. Graag ontvangen we van u feedback:
